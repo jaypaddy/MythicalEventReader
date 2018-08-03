@@ -1,0 +1,11 @@
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\bin\Debug\netcoreapp1.1\EventSimulator.deps.json
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\bin\Debug\netcoreapp1.1\EventSimulator.runtimeconfig.json
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\bin\Debug\netcoreapp1.1\EventSimulator.runtimeconfig.dev.json
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\bin\Debug\netcoreapp1.1\EventSimulator.dll
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\bin\Debug\netcoreapp1.1\EventSimulator.pdb
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\obj\Debug\netcoreapp1.1\EventSimulator.csprojResolveAssemblyReference.cache
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\obj\Debug\netcoreapp1.1\EventSimulator.AssemblyInfo.cs
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\obj\Debug\netcoreapp1.1\EventSimulator.dll
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\obj\Debug\netcoreapp1.1\EventSimulator.pdb
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\bin\Debug\netcoreapp1.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\jay_p\Source\CSU\SmartSpacesSimulator\EventSimulator\bin\Debug\netcoreapp1.1\DocumentDB.Spatial.Sql.dll
